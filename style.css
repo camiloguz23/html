@@ -1,0 +1,19 @@
+body{
+    text-align: ;
+    background-image: url(fondo.jpg);
+    margin-left: 500px;
+}
+#one{
+    display: block;
+    border: black;
+}
+#content:hover{
+    background-color: yellow;
+}
+#content{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+ul{
+    list-style-type: lower-latin;
+}
